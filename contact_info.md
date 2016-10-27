@@ -1,7 +1,8 @@
 ## MSUM
 - Charles Crandall - crandallch@mnstate.edu
 - Paige Meyer - meyerpa@mnstate.edu
-- anthony nemmaoui-ferre nemmaouian@mnstate.edu
+- Anthony Nemmaoui-Ferre nemmaouian@mnstate.edu
+- Alex Gwaltney gwaltneyal@mnstate.edu
 
 ## NDSU
 - Chair Jordan Goetze jordan.goetze@ndsu.edu
